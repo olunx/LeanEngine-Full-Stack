@@ -2,3 +2,6 @@
 node_modules/
 npm-debug.log
 .avoscloud/
+.avoscloud/
+.DS_Store
+.idea
